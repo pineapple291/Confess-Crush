@@ -7,7 +7,7 @@ const CONFIG = {
     Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^Don't click here^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy',
     btnYes: 'Anh ghét em<33',
     btnNo: 'Anh yêu em :3',
     question: 'O21 có bao nhiêu bạn nữ xinh đẹp mà sao bạn lại yêu em?',
