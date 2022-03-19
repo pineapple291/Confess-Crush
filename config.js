@@ -1,10 +1,10 @@
 const CONFIG = {
     titleWeb: "Send to my love",
     introTitle: 'Trần Công Minh',
-    introDesc: `Trái đất vốn lạ thường
+    introDesc: 'Trái đất vốn lạ thường
     Mà sao anh cứ đi nhầm đường
     Lạc vào tim em lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    Đằng sau chữ yêu đây là thương',
     btnIntro: '^^Don't click here^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy',
